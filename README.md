@@ -4,7 +4,7 @@ it's use  tailwindcss language
 
 like this repositories
 
-![Screenshot 2025-04-14 083350](https://github.com/user-attachments/assets/ba9bc6f8-2815-45ff-8979-bc3520da65cd)
+![Screenshot 2025-04-14 083212](https://github.com/user-attachments/assets/822d6cbd-c461-4668-9536-768ee54eea9f)
 
 it is responsive also
 
